@@ -14,7 +14,7 @@ section {
   display: table;
   margin: 0;
   max-width: none;
-  background-color: #373B44;
+  background-color: #eeeeee;
   height: 100vh;
   
   &:nth-of-type(2n) {
@@ -23,7 +23,7 @@ section {
 }
 
 .intro {
-  height: 90vh;
+  height: 100vh;
 }
 
 .content {
@@ -34,19 +34,19 @@ section {
 h1 {
   font-size: 3em;
   display: block;
-  color: white;
+  color: rgb(36, 36, 36);
   font-weight: 300;
 }
 
 p {
   font-size: 1.5em;
   font-weight: 500;
-  color: #C3CAD9;
+  color: #3a3a3a;
 }
 
 a {
   font-weight: 700;
-  color: #373B44;
+  color: #3a3a3a;
   position: relative;
   
   &:hover{ 
