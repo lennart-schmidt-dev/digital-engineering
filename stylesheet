@@ -1,0 +1,45 @@
+p {
+
+    font-family: Arial;
+  
+    font-size: 16px;
+  
+    color: black;
+  
+  }
+  
+   
+  
+  h1 {
+  
+     font-family: Arial;
+  
+     font-size: 30px;
+  
+     color: black;
+  
+  }
+  
+   
+  
+  h2 {
+  
+     font-family: Arial;
+  
+     font-size: 24px;
+  
+     color: black;
+  
+  }
+
+   
+  
+  h3 {
+  
+    font-family: Arial;
+ 
+    font-size: 18px;
+ 
+    color: black;
+ 
+ }
