@@ -72,3 +72,12 @@ footer {
 .bottom-three {
      margin-bottom: 1cm;
   }
+
+  #logo {  
+    float: left;         /* Das Logo soll linksbündig sein,       */  
+}  
+  
+#link {  
+     float: right;       /* die Navigation rechtsbündig, ...      */  
+     text-align: right;  /* ... für die Listenelemente, ...       */  
+}  
