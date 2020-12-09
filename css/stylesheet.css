@@ -14,12 +14,10 @@ section {
   display: table;
   margin: 0;
   max-width: none;
-  background-color: #eeeeee;
+  background-color: #ffffff;
   height: 100vh;
   
-  &:nth-of-type(2n) {
-    background-color: #FE4B74;
-  }
+  
 }
 
 .intro {
@@ -61,11 +59,11 @@ a {
 footer {
   padding: 1% 5%;
   text-align:center;
-  background-color: #373B44;
+  background-color: #666666;
   color: white;
   
   a {
-    color: #FE4B74;
+    color: #ffffff;
     font-weight: 500;
     text-decoration: none;
   }
